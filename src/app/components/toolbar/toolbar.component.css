@@ -1,0 +1,10 @@
+.toolbar {
+  padding-left: 1em;
+  background-color: #3f51b5;
+  width: 100%;
+  border: 1px solid darkblue;
+}
+
+h2{
+  color: azure;
+}
